@@ -17,3 +17,4 @@ Workshop for swift programming
 
 https://colab.research.google.com/drive/1-ZMVS-nZQ0NkPIe4sVEN1PtZ5ZvU75zG?usp=sharing
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rohitpalsingh/Introduction-to-Swift-Programming/main?labpath=SwiftProgramming.ipynb)
