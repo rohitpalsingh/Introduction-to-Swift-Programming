@@ -5,7 +5,7 @@ Workshop for swift programming
 * Introduction to Swift
 * Basics of Swift : a brief backgound.
 * Setting up Swift IDE or REPL Environment.
-# Hands on with Julia
+# Hands on with Swift
 * Variables and Data Types.
 * Varibale Scope and Constants
 * Data Structures.
