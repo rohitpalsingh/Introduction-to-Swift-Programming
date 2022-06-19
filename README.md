@@ -11,6 +11,9 @@ Workshop for swift programming
 * Data Structures.
 * Control Flow.
 * Functions.
-# Future Topics
-* Classes, Packages, UI Development, Swift of AI, Code Optimization and Interoperability.
+#Note: 
+* Please click 'launch binder' button below to launch the Binder. A Binder is an interactive environment that allows you to run code in the web browser without any need for installations. Please click 'Open in Colab' button below to launch the notebook in Google Colab for an interactive environment in the web browser.
+
+
+https://colab.research.google.com/drive/1-ZMVS-nZQ0NkPIe4sVEN1PtZ5ZvU75zG?usp=sharing
 
